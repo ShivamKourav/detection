@@ -1,36 +1,139 @@
-# 🎭 Face & Emotion Detection
+# 🧠 AI MoodSense — Face Detection & Emotion Recognition
 
-A modern React-based web application that uses the device camera to detect and display facial emotions in real time.
+<div align="center">
 
-The project provides a simple and interactive interface where users can enable their camera and see the detected emotion through a clean and responsive UI.
+<img src="https://img.shields.io/badge/AI-MoodSense-a855f7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Face-Detection-ec4899?style=for-the-badge&logo=facepunch&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Emotion-Recognition-8b5cf6?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-18+-61dafb?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Vite-Frontend-646cff?style=for-the-badge&logo=vite&logoColor=white" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+# ✨ AI MoodSense
+
+### AI-Powered Face Detection, Emotion Recognition & Mood-Based Music Recommendation
+
+Detect facial emotions using your webcam and explore an interactive mood-based experience through a modern React application.
+
+<br />
+
+<a href="https://detection-sk.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Visit%20Website-a855f7?style=for-the-badge" />
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/ShivamKourav/detection" target="_blank">
+
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
+
+</a>
+
+</div>
 
 ---
 
-## ✨ Features
+## 🌐 Live Demo
 
-- 📷 Real-time camera access
-- 😊 Emotion detection
-- 🎨 Clean and modern user interface
-- ⚡ Fast React-based application
-- 📱 Responsive design
-- 🔊 Emotion-based interaction/audio support
-- 🧩 Component-based React architecture
-- 🚀 Easy to run and deploy
+🚀 **Try AI MoodSense Live**
+
+### 👉 https://detection-sk.vercel.app/
+
+Open the application and allow webcam access to experience the face detection and mood recognition interface.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 About The Project
 
-- **React.js**
-- **JavaScript**
-- **Vite**
-- **CSS**
-- **HTML5**
-- **Web Camera API**
+**AI MoodSense** is a modern face detection and emotion recognition web application built with React.
+
+The application uses the user's webcam to capture facial expressions and provides an interactive interface for understanding the detected mood.
+
+The project focuses on combining:
+
+- 🧠 AI-based emotion recognition
+- 📷 Real-time webcam interaction
+- 🎭 Mood detection
+- 🎵 Mood-based music experience
+- 🎨 Modern and responsive UI
+- ⚡ Fast React development
 
 ---
 
-## 📂 Project Structure
+# ✨ Features
+
+## 📷 Face Detection
+
+Use your device's webcam to capture and analyze facial expressions in real time.
+
+---
+
+## 🧠 Emotion Recognition
+
+The application can work with different emotional states such as:
+
+| Emotion | Status |
+|---|---|
+| 😊 Happy | ✅ |
+| 😢 Sad | ✅ |
+| 😡 Angry | ✅ |
+| 😐 Neutral | ✅ |
+| 😲 Surprise | ✅ |
+| 😨 Fear | ✅ |
+| 🤢 Disgust | ✅ |
+
+---
+
+## 🎵 Mood-Based Music
+
+The detected mood can be used to create an interactive music experience based on the user's current emotion.
+
+---
+
+## 🎨 Modern UI
+
+- Responsive design
+- Interactive buttons
+- Clean components
+- Smooth user experience
+- Camera interface
+- Emotion display
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🟨 JavaScript
+- 🎨 CSS
+
+### Deployment
+
+- ▲ Vercel
+
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📂 Project Structure
 
 ```text
 detection/
@@ -49,3 +152,4 @@ detection/
 ├── package.json
 ├── package-lock.json
 └── README.md
+
