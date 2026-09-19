@@ -162,22 +162,23 @@ detection/
 ├── package-lock.json
 └── README.md
 ```
-👨‍💻 Author
+
+---
+
 <div align="center">
-Shivam Kourav
 
-B.Tech Computer Science Engineering Student
+## ✨ Thanks for Visiting AI MoodSense
 
-<br /> <a href="https://github.com/ShivamKourav"> <img src="https://img.shields.io/badge/GitHub-ShivamKourav-181717?style=for-the-badge&logo=github" /> </a> </div>
-<div align="center">
-✨ Thanks for Visiting AI MoodSense
+Thank you for taking the time to explore **AI MoodSense**.  
+I hope you enjoyed discovering this AI-powered face detection and emotion recognition project.
 
-Thank you for taking the time to explore AI MoodSense.
+<br />
 
-I hope you enjoyed discovering this face detection and emotion recognition project.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
-<br /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" /> <br />
-🚀 Keep Building. Keep Learning. Keep Innovating.
+<br />
+
+### 🚀 Keep Building. Keep Learning. Keep Innovating.
 
 Made with ❤️, AI & lots of code.
 
