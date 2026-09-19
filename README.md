@@ -153,3 +153,24 @@ detection/
 ├── package-lock.json
 └── README.md
 
+<div align="center">
+✨ Thanks for Visiting AI MoodSense
+
+Thank you for exploring AI MoodSense.
+
+<br />
+🚀 Keep Building. Keep Learning. Keep Innovating.
+
+Made with ❤️, AI & lots of code.
+
+<br />
+
+Developed by Shivam Kourav
+
+<br /> <a href="https://detection-sk.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20Live%20Demo-AI%20MoodSense-a855f7?style=for-the-badge" /> </a> <a href="https://github.com/ShivamKourav/detection"> <img src="https://img.shields.io/badge/⭐%20Star%20on-GitHub-181717?style=for-the-badge&logo=github" /> </a>
+
+<br /><br />
+
+© 2026 AI MoodSense
+
+</div>
