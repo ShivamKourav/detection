@@ -10,7 +10,11 @@
 
 <img src="https://img.shields.io/badge/React-18+-61dafb?style=for-the-badge&logo=react&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Vite-Frontend-646cff?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FastAPI-AI%20Server-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
 
@@ -22,7 +26,7 @@
 
 ### AI-Powered Face Detection, Emotion Recognition & Mood-Based Music Recommendation
 
-Detect facial emotions using your webcam and explore an interactive mood-based experience through a modern React application.
+Detect facial emotions through your webcam and explore an interactive mood-based experience with a modern web interface.
 
 <br />
 
@@ -54,20 +58,21 @@ Open the application and allow webcam access to experience the face detection an
 
 ---
 
-## 🎯 About The Project
+## 🎯 What is AI MoodSense?
 
-**AI MoodSense** is a modern face detection and emotion recognition web application built with React.
+**AI MoodSense** is a face detection and emotion recognition web application designed to provide an interactive mood-based experience.
 
-The application uses the user's webcam to capture facial expressions and provides an interactive interface for understanding the detected mood.
+The application uses the user's webcam to capture facial expressions and processes the detected emotion to create an engaging user experience.
 
-The project focuses on combining:
+The project focuses on:
 
-- 🧠 AI-based emotion recognition
-- 📷 Real-time webcam interaction
+- 🧠 Facial emotion recognition
+- 📷 Webcam interaction
 - 🎭 Mood detection
 - 🎵 Mood-based music experience
-- 🎨 Modern and responsive UI
+- 🎨 Modern user interface
 - ⚡ Fast React development
+- 📱 Responsive design
 
 ---
 
@@ -81,9 +86,9 @@ Use your device's webcam to capture and analyze facial expressions in real time.
 
 ## 🧠 Emotion Recognition
 
-The application can work with different emotional states such as:
+The application supports different emotional states such as:
 
-| Emotion | Status |
+| Emotion | Detection |
 |---|---|
 | 😊 Happy | ✅ |
 | 😢 Sad | ✅ |
@@ -97,45 +102,49 @@ The application can work with different emotional states such as:
 
 ## 🎵 Mood-Based Music
 
-The detected mood can be used to create an interactive music experience based on the user's current emotion.
+The detected mood can be used to provide an interactive music experience based on the user's current emotional state.
 
 ---
 
 ## 🎨 Modern UI
 
+The application provides:
+
 - Responsive design
 - Interactive buttons
-- Clean components
-- Smooth user experience
 - Camera interface
 - Emotion display
+- Smooth user experience
+- Clean and modern layout
 
 ---
 
 # 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 
 - ⚛️ React.js
 - ⚡ Vite
 - 🟨 JavaScript
 - 🎨 CSS
 
-### Deployment
+## Deployment
 
 - ▲ Vercel
 
-### Development Tools
+## Development Tools
 
 - Git
 - GitHub
 - VS Code
 
+> **Note:** Add Node.js, FastAPI, MongoDB, ImageKit, or other technologies here only if they are actually used in your current project.
+
 ---
 
 # 📂 Project Structure
 
-
+```text
 detection/
 │
 ├── public/
@@ -152,13 +161,22 @@ detection/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
+👨‍💻 Author
+<div align="center">
+Shivam Kourav
 
-div align="center">
+B.Tech Computer Science Engineering Student
+
+<br /> <a href="https://github.com/ShivamKourav"> <img src="https://img.shields.io/badge/GitHub-ShivamKourav-181717?style=for-the-badge&logo=github" /> </a> </div>
+<div align="center">
 ✨ Thanks for Visiting AI MoodSense
 
-Thank you for exploring AI MoodSense.
+Thank you for taking the time to explore AI MoodSense.
 
-<br />
+I hope you enjoyed discovering this face detection and emotion recognition project.
+
+<br /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" /> <br />
 🚀 Keep Building. Keep Learning. Keep Innovating.
 
 Made with ❤️, AI & lots of code.
@@ -171,4 +189,5 @@ Developed by Shivam Kourav
 
 © 2026 AI MoodSense
 
-</div> 
+</div> ```
+
