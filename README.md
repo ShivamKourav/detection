@@ -135,7 +135,7 @@ The detected mood can be used to create an interactive music experience based on
 
 # 📂 Project Structure
 
-```text
+
 detection/
 │
 ├── public/
@@ -153,36 +153,22 @@ detection/
 ├── package-lock.json
 └── README.md
 
+div align="center">
+✨ Thanks for Visiting AI MoodSense
 
-<div align="center">
-
-## ✨ Thanks for Visiting AI MoodSense
-
-Thank you for exploring **AI MoodSense**.
+Thank you for exploring AI MoodSense.
 
 <br />
-
-### 🚀 Keep Building. Keep Learning. Keep Innovating.
+🚀 Keep Building. Keep Learning. Keep Innovating.
 
 Made with ❤️, AI & lots of code.
 
 <br />
 
-**Developed by** [**Shivam Kourav**](https://github.com/ShivamKourav)
+Developed by Shivam Kourav
 
-<br />
+<br /> <a href="https://detection-sk.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20Live%20Demo-AI%20MoodSense-a855f7?style=for-the-badge" /> </a> <a href="https://github.com/ShivamKourav/detection"> <img src="https://img.shields.io/badge/⭐%20Star%20on-GitHub-181717?style=for-the-badge&logo=github" /> </a> <br /> <br />
 
-<a href="https://detection-sk.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-AI%20MoodSense-a855f7?style=for-the-badge" />
-</a>
+© 2026 AI MoodSense
 
-<a href="https://github.com/ShivamKourav/detection">
-  <img src="https://img.shields.io/badge/⭐%20Star%20on-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br />
-<br />
-
-**© 2026 AI MoodSense**
-
-</div>
+</div> 
